@@ -10,7 +10,7 @@ commands. The commands will be executed using fork, execvp, and waitpid. The par
 inputted.
 
 # Diagram 
-![alt text](https://github.com/cs100/assignment-demon_slayers/blob/master/images/newOMT.PNG "OMT Diagram")
+![alt text](https://github.com/Chhurio/cs100-Shell-Project/blob/main/images/newOMT.PNG "OMT Diagram")
 
 # Classes 
 Executable Class - Acts at the base class in the composite pattern, it has a virtual function called execute(), which will be inherited and implemented by its children
